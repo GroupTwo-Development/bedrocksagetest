@@ -1,0 +1,15 @@
+@import "bootstrap";
+
+.menu-menu-1-container {
+  padding: 1rem 2rem;
+
+  ul#menu-menu-1 {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+  }
+}
+
+
